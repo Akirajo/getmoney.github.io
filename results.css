@@ -1,0 +1,24 @@
+
+#results {
+    display:none;
+}
+
+body {
+    background-image: url(https://64.media.tumblr.com/47afa0929fecadf93cf54b571c22b094/95484bcbcf9c288b-6e/s500x750/ecbee2824bd281c5fb009534390ce5451a1ee6a6.gifv);
+    background-repeat: repeat;
+  
+}
+.card {
+  border: 0.5rem outset pink;
+  outline: 0.5rem solid khaki;
+  box-shadow: 0 0 0 2rem skyblue;
+  border-radius: 12px;
+  font: bold 1rem sans-serif;
+  margin: 2rem;
+  padding: 1rem;
+  outline-offset: 0.5rem;
+}
+
+    
+
+
